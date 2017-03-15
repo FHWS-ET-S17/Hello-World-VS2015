@@ -1,8 +1,9 @@
 /*W.Spieﬂ  Hello World*/
 #include <stdio.h>
-
+#define FALSE 0
 int main(void) {
 	printf("hello c-world");
 	getchar();
-	return 0;
+
+	return FALSE;
 }
